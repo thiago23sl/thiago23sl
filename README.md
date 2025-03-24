@@ -1,4 +1,6 @@
+<div align="center">
 <h1 align="left">Hello ! My name is Thiago and I'm Brazilian</h1>
+</div>
 
 ###
 
