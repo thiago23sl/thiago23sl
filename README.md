@@ -1,4 +1,5 @@
-<h1 align="left">Hello ! My name is Thiago and I'm Brazilian</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+welcome+to+my+profile;my+name+is+Thiago.)](https://git.io/typing-svg)
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=thiago23sl&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
