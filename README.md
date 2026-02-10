@@ -2,17 +2,6 @@
 
 <div align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=thiago23sl&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark" 
-    height="150"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=thiago23sl&layout=compact&langs_count=5&theme=github_dark" 
-    height="150"
-  />
-</div>
-
-<div align="center">
-  <img 
     src="https://github-readme-activity-graph.vercel.app/graph?username=thiago23sl&theme=github-dark&area=true&hide_border=true" 
     height="300"
   />
