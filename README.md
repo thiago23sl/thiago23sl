@@ -52,3 +52,11 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=thiago23sl.thiago23sl&left_color=black" />
 </div>
+
+###
+
+<img align="right" height="200" src="https://tenor.com/search/anime-heart-girl-gifs"  />
+
+###
+
+
