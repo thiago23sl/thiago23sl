@@ -53,7 +53,7 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=thiago23sl.thiago23sl&left_color=black" />
 </div>
 
-<img src="(https://tenor.com/search/anime-heart-girl-gifs)" width="400">
+<img src="https://tenor.com/search/anime-heart-girl-gifs" width="400">
 
 
 
